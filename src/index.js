@@ -15,9 +15,6 @@ class App extends React.Component {
         <div className='green tc'>
           The Fellini of Code / The Duke of Kooks / The Buddha of Stu's
         </div>
-        {/* <div className='green tc'>
-          CODER / KOOK / BUDDHA
-        </div> */}
       </div>
     );
   }
