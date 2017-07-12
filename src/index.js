@@ -12,6 +12,12 @@ class App extends React.Component {
         <h1 className='green mb2 tc'>
           {globeEmoji} Stujah {globeEmoji}
         </h1>
+        <div className='green tc'>
+          The Fellini of Code / The Duke of Kooks / The Buddha of Stu's
+        </div>
+        {/* <div className='green tc'>
+          CODER / KOOK / BUDDHA
+        </div> */}
       </div>
     );
   }
