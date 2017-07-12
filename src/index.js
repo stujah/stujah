@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import tachyons from 'tachyons';
+// import tachyons from 'tachyons';
 import emoji from 'node-emoji'
 
 class App extends React.Component {
