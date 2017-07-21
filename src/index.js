@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'tachyons';
+import Tachyons from 'tachyons/css/tachyons.min.css';
 import SvgCircleGroup from './svg_circle_group.js';
 
 class App extends React.Component {
