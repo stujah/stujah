@@ -23,7 +23,7 @@ class SvgCircleGroup extends React.Component {
   
   render() {
     return(
-      <div id='drawing' className='h-100 green'></div>
+      <div id='drawing' className='h-100 w-100 fixed green' style={{left:'0',top:'0'}}></div>
     )
   }
 }
